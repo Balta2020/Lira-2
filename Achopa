@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 ,Futbol 1
+http://185.53.88.25:8080/hls/streama149805/index.m3u8?cst=21381921d19f9e95b0b1c7a600584015
+#EXTINF:-1 ,Futbol 2
+http://185.53.88.25:8080/hls/streama144677/index.m3u8?cst=bcc69e55d6d74c3978900ac2d76ab87a
+#EXTINF:-1 ,Futbol 3
+http://185.233.186.249:8080/hls/streama149804/index.m3u8?cst=af5641ef805795cad425f706f13ed133
+#EXTINF:-1 ,Futbol 4
+http://87.120.36.62:8080/hls/streama141880/index.m3u8?cst=9a6716ceb7a605c84c38d15343dccd49
+#EXTINF:-1 ,Futbol 5
+http://45.95.235.104:8080/hls/streama130729/index.m3u8?cst=02de7acf82ed8a5043560d84e92a7ccd
+#EXTINF:-1 ,Futbol 6
+http://87.120.36.57:8080/hls/streama150708/index.m3u8?cst=4d8ca92f4f1dd3795e97cf736413536b
+#EXTINF:-1 ,Futbol 7
+http://87.120.36.32:8080/hls/streama140812/index.m3u8?cst=55621f5b0f6b1ab2a7bd1cc09cae11f0
